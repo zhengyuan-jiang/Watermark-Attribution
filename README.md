@@ -189,6 +189,8 @@ tests/
 
 ## Citation
 
+If you use this repository, please cite our attribution paper:
+
 ```bibtex
 @inproceedings{jiang2026watermark,
   title={Watermark-based Attribution of AI-Generated Content},
@@ -196,6 +198,29 @@ tests/
           Wang, Yupu and Gong, Neil Zhenqiang},
   booktitle={International Conference on Learning Representations},
   year={2026}
+}
+```
+
+For certifiably robust image watermarking, please also refer to:
+
+```bibtex
+@inproceedings{jiang2024certifiably,
+  title={Certifiably Robust Image Watermark},
+  author={Jiang, Zhengyuan and Guo, Moyang and Hu, Yuepeng and
+          Jia, Jinyuan and Gong, Neil Zhenqiang},
+  booktitle={European Conference on Computer Vision},
+  year={2024}
+}
+```
+
+For white-box and black-box attacks against image watermarks, see WEvade:
+
+```bibtex
+@inproceedings{jiang2023evading,
+  title={Evading watermark based detection of AI-generated content},
+  author={Jiang, Zhengyuan and Zhang, Jinghuai and Gong, Neil Zhenqiang},
+  booktitle={ACM Conference on Computer and Communications Security (CCS)},
+  year={2023}
 }
 ```
 
