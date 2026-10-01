@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+
+# Model and data artifacts
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+data/
+datasets/
+
+# Generated experiment output
+outputs/
+results/
+*.log
+*.out

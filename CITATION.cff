@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Watermark Attribution"
+type: software
+license: MIT
+repository-code: "https://github.com/zhengyuan-jiang/Watermark-Attribution"
+authors:
+  - family-names: Jiang
+    given-names: Zhengyuan
+  - family-names: Guo
+    given-names: Moyang
+  - family-names: Hu
+    given-names: Yuepeng
+  - family-names: Wang
+    given-names: Yupu
+  - family-names: Gong
+    given-names: Neil Zhenqiang
+preferred-citation:
+  type: conference-paper
+  title: "Watermark-based Attribution of AI-Generated Content"
+  authors:
+    - family-names: Jiang
+      given-names: Zhengyuan
+    - family-names: Guo
+      given-names: Moyang
+    - family-names: Hu
+      given-names: Yuepeng
+    - family-names: Wang
+      given-names: Yupu
+    - family-names: Gong
+      given-names: Neil Zhenqiang
+  collection-title: "International Conference on Learning Representations"
+  year: 2026
+  url: "https://arxiv.org/abs/2404.04254"
